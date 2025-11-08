@@ -20,16 +20,12 @@ Python no solo es utilizada para aquellas personas con experiencia si no que tam
 
 # Ejemplo de bloque de código en Markdown
 
-## Programa que verifica si un número es par o impar
+# Pedimos al usuario dos números y calculamos su suma
+num1 = float(input("Ingrese el primer número: "))
+num2 = float(input("Ingrese el segundo número: "))
 
-# Pedimos al usuario que ingrese un número
-numero = int(input("Ingrese un número: "))
-
-# Verificamos si el número es par o impar
-if numero % 2 == 0:
-    print(f"El número {numero} es par.")
-else:
-    print(f"El número {numero} es impar.")
+suma = num1 + num2
+print(f"La suma de {num1} y {num2} es: {suma}")
 
 
 
