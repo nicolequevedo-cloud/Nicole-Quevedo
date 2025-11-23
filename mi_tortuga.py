@@ -35,8 +35,8 @@ t.right(90)          # Gira 90 grados a la derecha
 t.forward(60)
 turtle.done()
 
-### Referencia
-ChatGPT:
+### Referencia IA
+ChatGPT: https://chat.openai.com
 
 
 
