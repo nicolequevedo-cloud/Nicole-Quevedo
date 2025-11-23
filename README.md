@@ -41,5 +41,3 @@ En estas semanas de clase aprendi sobre varias plataformas como *Google colab*, 
 - ChatGPT: apoyo en la redacción, formato Markdown y ejemplo de código en Python.
 Sitio web: https://chat.openai.com
 
-https://github.com/nicolequevedo-cloud/Nicole-Quevedo.git
-
