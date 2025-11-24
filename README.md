@@ -41,6 +41,6 @@ En estas semanas de clase aprendi sobre varias plataformas como *Google colab*, 
 - ChatGPT: apoyo en la redacción, formato Markdown y ejemplo de código en Python.
 Sitio web: https://chat.openai.com
 
-
-y
+# Trabajo 2 tortuga en movimiento
+https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Mi_tortuga.md
 
