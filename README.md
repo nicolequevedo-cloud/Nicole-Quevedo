@@ -42,6 +42,5 @@ En estas semanas de clase aprendi sobre varias plataformas como *Google colab*, 
 Sitio web: https://chat.openai.com
 
 
-## Tarea numero 2 
-https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Mi_tortuga.py
+y
 
