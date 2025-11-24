@@ -2,7 +2,7 @@
 
 #Ejercicio 1 y 2
 En este paso hicimos y creamos la tortuga para que su dirección fuera hacia abajo con el siguiente codigo:
-,,, python
+´´´ python
 import turtle
 t = turtle.Turtle()   # Crea una tortuga
 t.right(90) 
@@ -39,4 +39,5 @@ turtle.done()
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
