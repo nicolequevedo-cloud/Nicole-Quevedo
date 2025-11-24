@@ -28,6 +28,7 @@ t.right(90)           # Gira 90° hacia la derecha (ahora mira hacia abajo)
 t.forward(60)         # Avanza 60 píxeles hacia abajo
 
 turtle.done()         # Mantiene la ventana abierta
+https://github.com/nicolequevedo-cloud/Nicole-Quevedo/commit/b7edd2cc2c74ad76bc4bee4b920b150cce3aecc7
 
 
 # Ejercicio 4 y 5
@@ -61,6 +62,7 @@ https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Captura%20de%20p
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
 
 
