@@ -1,8 +1,10 @@
 
-## Ejercicio 1 - repositorio 
+## Repositorio 1 
 
-https://github.com/nicolequevedo-cloud/mini_turtle.git
+https://github.com/nicolequevedo-cloud/mini_tracker.git
 
-## Ejercicio 2 - repositorio
+## Repositorio 2
 
-https://github.com/nicolequevedo-cloud/mini_turtle_oo.git 
+https://github.com/nicolequevedo-cloud/mini_tracker_oo.git
+
+
